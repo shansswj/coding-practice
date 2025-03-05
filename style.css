@@ -1,0 +1,13 @@
+button {
+    background-color: #25D366; /*Whatsapp green */
+    color: white;
+    border: none;
+    padding: 10px; 20px;
+    font-size: 18px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+button:hover {
+    background-color: #128C7E; /* Darker green on hover */
+}
