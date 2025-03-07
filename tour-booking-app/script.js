@@ -6,6 +6,7 @@ document.addEventListener('DOMContentLoaded. function () {
         button.addEventListener("click", function () {
             console.log("Booking confirmed for: "+ this.parentElement.textContent.trim());
             console.log('Monkey')
+            console.log ('Money')
         }); 
     });
 });
