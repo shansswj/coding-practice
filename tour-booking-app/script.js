@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded. function () {
 
     buttons.forEach(button => {
         button.addEventListener("click", function () {
-            console.log("Booking confirmed for: "+ this.parentElement.textContent.trim()); moneykamn adgadjhasdkj
+            console.log("Booking confirmed for: "+ this.parentElement.textContent.trim());
         }); 
     });
 });
